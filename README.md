@@ -2,12 +2,14 @@
 A live, interactive, and customizable stock market dashboard built with Streamlit, powered by Yahoo Finance API (yfinance). It auto-refreshes every set interval and includes multiple tools to help track and visualize stock performance.
 
 # 👥 Teammates:
-Pavithra R
-Sakthisree K
-Tamilselvi P
-Vaishnavi V
+
+👨‍💻 Pavithra R
+👨‍💻 Sakthisree K
+👨‍💻 Tamilselvi P
+👨‍💻 Vaishnavi V
 
 ## 🎓 Built as a University Project
+We are the students of SRM Easwari Engineering College
 
 # 🔧 Features
 
@@ -31,17 +33,17 @@ Vaishnavi V
 
 # 🛠 Tech Stack
 
-i.Python
+🐍 Python
 
-ii.Streamlit – UI Framework
+📊 Streamlit – UI Framework
 
-iii.Plotly – Interactive Charts
+📈 Plotly – Interactive Charts
 
-iv.yfinance – Financial data from Yahoo Finance
+💸 yfinance – Financial data from Yahoo Finance
 
-v.pandas / numpy – Data manipulation and analysis
+🧮 pandas / numpy – Data manipulation and analysis
 
-vi.streamlit_autorefresh – Live updates
+🔁 streamlit_autorefresh – Live updates
 
 # 🖼 Preview
 
@@ -49,11 +51,11 @@ https://imgur.com/a/lhwR9cT
 
 # 📌 To-Do / Improvements
 
-i.Add real news integration via an API (e.g. NewsAPI)
+📰 Add real news integration via an API (e.g. NewsAPI)
 
-ii.Email/SMS alerts for price triggers
+📧 Email/SMS alerts for price triggers
 
-iii.User login + cloud portfolio storage
+🔐 User login + cloud portfolio storage
 
 iv.Mobile responsiveness
 
