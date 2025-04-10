@@ -71,7 +71,8 @@ for symbol in symbols:
         compare_data[symbol] = df['Close'] / df['Close'].iloc[0] * 100
 
 if compare_data:
-    comp_df = pd.DataFrame(compare_data)
+    st.write("Debug - compare_data:", compare_data)
+    comp_df = pd.DataFrame({key: [val] for key, val in compare_data.items()})
     st.line_chart(comp_df)
 
 # Auto-refresh the app
